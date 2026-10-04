@@ -1,0 +1,9 @@
+name: InvCaptive
+version: 0.1.0
+main: invcaptive.InvCaptivePlugin
+api-version: '26.3'
+
+commands:
+  invcaptive:
+    description: InvCaptive 테스트 명령어
+    usage: /invcaptive

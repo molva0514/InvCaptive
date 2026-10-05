@@ -1,13 +1,77 @@
 {
   "stats": {
+    "minecraft:broken": {
+      "minecraft:golden_shovel": 1,
+      "minecraft:wooden_shovel": 2
+    },
+    "minecraft:used": {
+      "minecraft:mushroom_stew": 2,
+      "minecraft:emerald_block": 1,
+      "minecraft:apple": 2,
+      "minecraft:golden_chestplate": 16,
+      "minecraft:netherite_axe": 59,
+      "minecraft:diamond_shovel": 6,
+      "minecraft:golden_shovel": 32,
+      "minecraft:golden_carrot": 30,
+      "minecraft:diamond_chestplate": 16,
+      "minecraft:wooden_shovel": 118
+    },
+    "minecraft:mined": {
+      "minecraft:gravel": 16,
+      "minecraft:short_grass": 2,
+      "minecraft:sand": 65,
+      "minecraft:dirt": 50,
+      "minecraft:birch_log": 14,
+      "minecraft:birch_leaves": 8,
+      "minecraft:grass_block": 111
+    },
+    "minecraft:dropped": {
+      "minecraft:wooden_shovel": 1,
+      "minecraft:bowl": 1,
+      "minecraft:sand": 14,
+      "minecraft:stripped_jungle_log": 1,
+      "minecraft:golden_carrot": 53,
+      "minecraft:gravel": 1,
+      "minecraft:waxed_lightning_rod": 2,
+      "minecraft:dirt": 127,
+      "minecraft:netherite_axe": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:netherite_axe": 1,
+      "minecraft:dirt": 256,
+      "minecraft:birch_sapling": 1,
+      "minecraft:flint": 1,
+      "minecraft:wildflowers": 4,
+      "minecraft:gravel": 2,
+      "minecraft:waxed_lightning_rod": 1,
+      "minecraft:bowl": 1,
+      "minecraft:wooden_shovel": 1,
+      "minecraft:stripped_jungle_log": 268,
+      "minecraft:sand": 79,
+      "minecraft:birch_log": 11,
+      "minecraft:golden_carrot": 53
+    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 2785,
-      "minecraft:total_world_time": 2785,
-      "minecraft:leave_game": 1,
-      "minecraft:fly_one_cm": 5318,
-      "minecraft:play_time": 2785,
-      "minecraft:jump": 3,
-      "minecraft:time_since_death": 2785
+      "minecraft:time_since_rest": 44263,
+      "minecraft:walk_one_cm": 19021,
+      "minecraft:leave_game": 14,
+      "minecraft:walk_under_water_one_cm": 3848,
+      "minecraft:damage_taken": 390,
+      "minecraft:play_time": 93692,
+      "minecraft:damage_dealt": 45,
+      "minecraft:jump": 85,
+      "minecraft:time_since_death": 44243,
+      "minecraft:drop": 27,
+      "minecraft:sprint_one_cm": 6580,
+      "minecraft:fall_one_cm": 3328,
+      "minecraft:total_world_time": 93692,
+      "minecraft:fly_one_cm": 147519,
+      "minecraft:walk_on_water_one_cm": 914,
+      "minecraft:sneak_time": 598,
+      "minecraft:deaths": 6
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1
     }
   },
   "DataVersion": 5023
